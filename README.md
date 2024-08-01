@@ -35,6 +35,8 @@ The Human Resource Management System (HRMS) is a sophisticated software solution
 
 #HRMS #HumanResourceManagement #EmployeeRecruitment #Onboarding #PerformanceEvaluation #PayrollManagement #EmployeeRecords #AttendanceTracking #LeaveManagement #BenefitsManagement #Compliance #DataAnalytics #Reporting #HRSoftware #WorkforceManagement #HRAutomation #StrategicHR #HRPlanning #Efficiency #Productivity
 
+# HRMS # HumanResourceManagement # EmployeeRecruitment # Onboarding # PerformanceEvaluation # PayrollManagement # EmployeeRecords # AttendanceTracking # LeaveManagement # BenefitsManagement # Compliance # DataAnalytics # Reporting # HRSoftware # WorkforceManagement # HRAutomation # StrategicHR # HRPlanning # Efficiency # Productivity
+
 ---
 # Design and developed by a Software Engr Muhammad Ilyas 
 # feel free to ask anything Ilyas02828@gmail.com
