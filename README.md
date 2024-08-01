@@ -39,3 +39,11 @@ The Human Resource Management System (HRMS) is a sophisticated software solution
 # Design and developed by a Software Engr Muhammad Ilyas 
 # feel free to ask anything Ilyas02828@gmail.com
 
+## Technologies Used
+
+- **Laravel 9**: The PHP framework used for building robust and scalable backend functionalities.
+- **PHP 8**: The server-side scripting language used for developing the application logic.
+- **JavaScript**: Enhances interactivity and client-side functionality.
+- **Bootstrap**: A CSS framework used for creating responsive and modern user interfaces.
+- **HTML**: Provides the structure for web pages.
+- **CSS**: Used for styling and layout of web pages.
